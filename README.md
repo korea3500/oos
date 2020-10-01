@@ -1,7 +1,7 @@
-# RESUME (kyeong-min Baek)
+# RESUME (Baek)
 # 개인 이력사항
 
-#### 이름 : 백경민
+#### 이름 : Baek
 #### email : bag0437@naver.com
 #### university : hallym univers
 
@@ -15,3 +15,11 @@
 3. JavaScript  
 4. Python  
 5. R  
+
+
+## 최근 관심 분야  
+* 오픈소스
+* 딥러닝
+* 블록체인
+* 아듀이노
+* spring
