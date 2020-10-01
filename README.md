@@ -8,3 +8,10 @@
 >  test
 >> test -1  
 >> test -2
+
+## 사용 언어
+1. JAVA  
+2. C  
+3. JavaScript  
+4. Python  
+5. R  
